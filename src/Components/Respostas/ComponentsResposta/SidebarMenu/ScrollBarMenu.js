@@ -22,10 +22,18 @@ const SidebarMenu = (props) => {
                                 }}>
                                     <li>
 
-                                            Aprendizagem
+                                        <Link to='atvaprendizagemanalise/analiseaap1/questao1analise'>
+                                            <Link className='teste' to='atvaprendizagemanalise/analiseaap1/questao1analise'>
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticaanalise/adg1analisediagnostic/questao1diagnostic'>
+                                            <Link className='teste' to='atvdiagnosticaanalise/adg1analisediagnostic/questao1diagnostic'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1analisevirtual1/av1analisevirtual/questao1virtual'>
@@ -44,10 +52,18 @@ const SidebarMenu = (props) => {
                                     <h3>Linguagem Orientada a Objetvo</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
-                                            Aprendizagem
+                                        <Link to='atvaprendizlinguagem/linguagemapp1/questao1aprendizagemlinguagem'>
+                                            <Link className='teste' to='atvaprendizlinguagem/linguagemapp1/questao1aprendizagemlinguagem'>
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticalinguagem/adg1diagnosticlinguagem/questao1diagnosticlinguagem'>
+                                            <Link className='teste' to='atvdiagnosticalinguagem/adg1diagnosticlinguagem/questao1diagnosticlinguagem'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1linguagemvirtual1/av1linguagemvirtual2/questao1virtuallinguagem'>
@@ -62,13 +78,21 @@ const SidebarMenu = (props) => {
                         <div >
                             <ul >
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3>Prog. e Desenv. de Banco de Dados</h3></div>
+                                    <h3>Programação e Desenvolvimento de Banco de Dados</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
-                                            Aprendizagem
+                                        <Link to='atvaprendizbancodados/bancodadosapp1/questao1aprendizagembancodados'>
+                                            <Link className='teste' to='atvaprendizbancodados/bancodadosapp1/questao1aprendizagembancodados'>
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticabancodados/adg1diagnosticbancodados/questao1diagnosticbancodados'>
+                                            <Link className='teste' to='atvdiagnosticabancodados/adg1diagnosticbancodados/questao1diagnosticbancodados'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1bancodadosvirtual1/av1bancodadosvirtual2/questao1virtualbancodados'>
@@ -86,12 +110,20 @@ const SidebarMenu = (props) => {
                                     <h3>Linguagem de Programação</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
+                                        <Link to='atvaprendizprogramacao/programacaoapp1/questao1aprendizagemprogramacao'>
+                                            <Link className='teste' to='atvaprendizprogramacao/programacaoapp1/questao1aprendizagemprogramacao'>
 
-                                            Aprendizagem
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
 
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticaprogramacao/adg1diagnosticprogramacao/questao1diagnosticprogramacao'>
+                                            <Link className='teste' to='atvdiagnosticaprogramacao/adg1diagnosticprogramacao/questao1diagnosticprogramacao'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1programacaovirtual1/av1programacaovirtual2/questao1virtualprogramacao'>
@@ -110,12 +142,20 @@ const SidebarMenu = (props) => {
                                     <h3>Interface e Usabilidade</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
+                                        <Link to='atvaprendizui/uiapp1/questao1Aprendizagemui'>
+                                            <Link className='teste' to='atvaprendizui/uiapp1/questao1Aprendizagemui'>
 
-                                            Aprendizagem
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
 
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticaui/adg1diagnosticui/questao1diagnosticui'>
+                                            <Link className='teste' to='atvdiagnosticaui/adg1diagnosticui/questao1diagnosticui'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1uivirtual1/av1uivirtual2/questao1virtualui'>
@@ -131,15 +171,23 @@ const SidebarMenu = (props) => {
                         <div>
                             <ul>
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3 >Optativa 1</h3></div>
+                                    <h3 >Ed - Design Think</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
+                                        <Link to='atvaprendizdesign/designapp1/questao1aprendizagemdesign'>
+                                            <Link className='teste' to='atvaprendizdesign/designapp1/questao1aprendizagemdesign'>
 
-                                            Aprendizagem
+                                                Aprendizagem
+                                            </Link>
+                                        </Link>
 
                                     </li>
                                     <li>
-                                            Diagnóstica
+                                        <Link to='atvdiagnosticadesign/adg1diagnosticdesign/questao1diagnosticdesign'>
+                                            <Link className='teste' to='atvdiagnosticadesign/adg1diagnosticdesign/questao1diagnosticdesign'>
+                                                Diagnóstica
+                                            </Link>
+                                        </Link>
                                     </li>
                                     <li>
                                         <Link className='teste' to='av1designvirtual1/av1designvirtual2/questao1virtualdesign'>
