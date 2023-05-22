@@ -18,7 +18,7 @@ const SidebarMenu = (props) => {
                             <ul>
                                 <div style={{ textAlign: 'center' }}>
 
-                                    <h3>Análise Orientada a Objetvo</h3>
+                                    <h3>Arquitetura e Organização de Computadores	</h3>
                                 </div>
 
                                 <div style={{
@@ -53,7 +53,7 @@ const SidebarMenu = (props) => {
                         <div>
                             <ul>
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3>Linguagem Orientada a Objetvo</h3></div>
+                                    <h3>Redes e Sistemas Distribuídos</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
                                         <Link to='atvaprendizlinguagem/linguagemapp1/questao1aprendizagemlinguagem'>
@@ -82,7 +82,7 @@ const SidebarMenu = (props) => {
                         <div >
                             <ul >
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3>Programação e Desenvolvimento de Banco de Dados</h3></div>
+                                    <h3>Projeto de Software</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
                                         <Link to='atvaprendizbancodados/bancodadosapp1/questao1aprendizagembancodados'>
@@ -111,7 +111,7 @@ const SidebarMenu = (props) => {
                         <div>
                             <ul>
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3>Linguagem de Programação</h3></div>
+                                    <h3>Sociedade Brasileira e Cidadania</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
                                         <Link to='atvaprendizprogramacao/programacaoapp1/questao1aprendizagemprogramacao'>
@@ -143,7 +143,7 @@ const SidebarMenu = (props) => {
                         <div>
                             <ul>
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3>Interface e Usabilidade</h3></div>
+                                    <h3>Segurança e Auditoria de Sistemas</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
                                         <Link to='atvaprendizui/uiapp1/questao1Aprendizagemui'>
@@ -175,7 +175,7 @@ const SidebarMenu = (props) => {
                         <div>
                             <ul>
                                 <div className='div1' style={{ textAlign: 'center' }}>
-                                    <h3 >Ed - Design Think</h3></div>
+                                    <h3 >Ed - Cultura Digital</h3></div>
                                 <div style={{ padding: '10px 20px ', backgroundColor: '#E7E7FF' }}>
                                     <li>
                                         <Link to='atvaprendizdesign/designapp1/questao1aprendizagemdesign'>

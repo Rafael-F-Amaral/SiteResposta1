@@ -15,7 +15,7 @@ const AvVirtualAnalise = (props) => {
             <div className='teste'>
               <h2>
                 <AlternativasProps
-                  nomemateria='Linguagem de Programação (AV)'
+                  nomemateria='Sociedade Brasileira e Cidadania (AV)'
                 />
               </h2>
             </div>

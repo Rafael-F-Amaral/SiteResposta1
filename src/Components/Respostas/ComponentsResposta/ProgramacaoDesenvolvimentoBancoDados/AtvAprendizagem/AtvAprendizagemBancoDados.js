@@ -17,8 +17,8 @@ const AtvAprendizagem = () => {
       <div>
         <section className='GridResposta'>
 
-          <div className='teste'  style={{marginBottom:'50px'}}>
-            <h2>Programação e Desenvolvimento <br /> de Banco de Dados (APP)
+          <div className='teste'>
+            <h2>Projeto de Software (APP)
             </h2>
           </div>
           <div>

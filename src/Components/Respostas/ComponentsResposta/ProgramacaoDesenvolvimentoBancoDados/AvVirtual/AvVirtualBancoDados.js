@@ -10,9 +10,9 @@ const AvVirtualAnalise = (props) => {
         <div>
           <section className='GridResposta'>
 
-            <div className='teste'  style={{marginBottom:'50px'}}>
+            <div className='teste'>
               <h2>
-                Programação e Desenvolvimento <br /> de Banco de Dados (AV)
+                Projeto de Software (AV)
               </h2>
             </div>
             <div>

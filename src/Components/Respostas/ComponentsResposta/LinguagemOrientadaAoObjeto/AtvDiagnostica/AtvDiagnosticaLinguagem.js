@@ -13,7 +13,7 @@ const AtvAprendizagem = (props) => {
           <div className='teste'>
             <h2>
               <AlternativasProps
-                nomemateria='Linguagem Orientada a Objetvo (ADG)'
+                nomemateria='Redes e Sistemas Distribuídos (ADG)'
               />
             </h2>
           </div>

@@ -1,8 +1,6 @@
 import React from 'react'
 import './ImageH1.css'
 import ImageHome from '../../imagensSITE/ImageHome.png'
-import Texture from '../../imagensSITE/texturaHome.jpg'
-import Button from '../../Button/Button'
 
 const ImageH1 = () => {
     return (
@@ -12,7 +10,7 @@ const ImageH1 = () => {
                 <section>
                     <h1>
                         Site colaborativo para o curso de desenvolvimento de sistemas
-                    <p style={{color:'blue', fontSize:'23px', fontWeight:'800', fontFamily:'sans-serif'}}>TERCEIRO SEMESTRE</p>
+                    <p style={{color:'#32cd32', fontSize:'23px', fontWeight:'800', fontFamily:'sans-serif'}}>PRIMEIRO SEMESTRE</p>
 
                     </h1>
 

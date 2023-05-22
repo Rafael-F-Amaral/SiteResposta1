@@ -8,9 +8,9 @@ const AtvAprendizagem = (props) => {
       <div>
         <section className='GridResposta'>
 
-          <div className='teste'  style={{marginBottom:'50px'}}>
+          <div className='teste'>
             <h2>
-              Programação e Desenvolvimento <br /> de Banco de Dados (APP)
+            Projeto de Software (APP)
             </h2>
           </div>
           <div>
