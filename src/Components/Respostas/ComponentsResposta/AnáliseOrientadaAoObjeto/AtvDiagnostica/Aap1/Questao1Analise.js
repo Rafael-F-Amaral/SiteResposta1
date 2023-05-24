@@ -31,7 +31,6 @@ const Questao1Analise = () => {
                                     <AlternativasProps
                                         key={id}
                                         questao1={questao1}
-                                        correto1={correto1}
 
                                     />
                                     <AlternativasProps

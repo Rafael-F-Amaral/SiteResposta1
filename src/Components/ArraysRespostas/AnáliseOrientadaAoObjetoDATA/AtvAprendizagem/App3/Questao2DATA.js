@@ -6,12 +6,7 @@ const RespostasDATA = [
         id: '0'
         ,
 
-
-        questaonumero: 'Questão 2',
-        id: 1
-        ,
-
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'Você aprendeu sobre bit e byte. Qual é a representação de um bit?',
         id: '2'
         ,
 
@@ -19,23 +14,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) Um digito de byte.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto2: 'b) Um digito binário.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Um digito qualquer.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) Um digito de base 10.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Um digito de base 16.',
         id: '8'
     }
 

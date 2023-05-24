@@ -6,12 +6,7 @@ const RespostasDATA = [
         id: '0'
         ,
 
-
-        questaonumero: 'Questão 3',
-        id: 1
-        ,
-
-        enunciado: 's',
+        enunciado: 'Quais são as três principais operações lógicas, de acordo com a álgebra de Boole?',
         id: '2'
         ,
 
@@ -19,23 +14,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) AND, OR e NOT.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) AND, OR, XOR e NOT.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) AND, OR e XOR.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) AND, OR, NOT, XOR, NAND, NOR e XNOR.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) XOR, NAND, NOR e XNOR.',
         id: '8'
     }
 

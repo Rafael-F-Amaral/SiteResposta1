@@ -6,12 +6,7 @@ const RespostasDATA = [
         id: '0'
         ,
 
-
-        questaonumero: 'Questão 3',
-        id: 1
-        ,
-
-        enunciado: 'Aqui é a pergunta elaborada',
+        enunciado: 'Pode-se dizer que o que define um projeto de um processador de acordo com sua tecnologia é:',
         id: '2'
         ,
 
@@ -19,23 +14,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) A quantidade de bits deste processador.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto2: 'b) A quantidade de instruções de máquina que se deseja que o processador execute.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) A quantidade de memória que este processador poderá administrar.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) A quantidade de núcleos de processamento do processador.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) A velocidade que este processador pode atingir.',
         id: '8'
     }
 

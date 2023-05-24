@@ -1,8 +1,7 @@
 
 const RespostasDATA = [
     {
-        materia: 'Análise Orientada a Objeto'
-        ,
+
         titulo: 'Atividade Diagnóstica (ADG1)'
         ,
         id: '0'
@@ -14,7 +13,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'As medidas de tamanho usadas em um computador são baseadas em bytes, que são uma sequência de 8 Bits. Qual a maior medida em bytes?',
         id: '2'
         ,
 
@@ -22,23 +21,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 - Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
-        id: '4'
+        correto1: 'a) HD com 0,5 Petabytes.',
+        id: '42'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) HD com 2,7 Terabytes.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) HD com 3.000.000 Megabytes.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) HD com 3072 Gigabytes.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) HD com 750 Gygabytes.',
         id: '8'
     }
 

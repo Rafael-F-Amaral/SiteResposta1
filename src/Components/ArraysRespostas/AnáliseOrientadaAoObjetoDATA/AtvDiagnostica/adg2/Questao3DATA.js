@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Aqui é a pergunta elaborada',
+        enunciado: 'Os barramentos de um computador permitem que as informações transitem dentro de um computador. Existem 3 tipos de barramentos: o barramento de dados, o barramento de endereços e o barramento de controle. Pode-se afirmar que o barramento de dados:',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) Determina diretamente o desempenho do sistema, pois quanto maior o número de vias de comunicação, maior o número de bits transferidos.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Determina quanto de memória pode ser endereçada.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Serve para receber a entrada de dados e a saída deles, através dos diversos dispositivos.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) Determina como as informações são processadas pela CPU.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Faz a transição de dados entre a ULA e a Unidade de Controle apenas.',
         id: '8'
     }
 

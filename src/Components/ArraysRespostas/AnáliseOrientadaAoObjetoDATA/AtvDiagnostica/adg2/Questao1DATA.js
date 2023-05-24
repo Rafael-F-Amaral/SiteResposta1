@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'Os barramentos de um computador permitem que as informações transitem dentro de um computador. Existem 3 tipos de barramentos, o barramento de dados, o barramento de endereços e o barramento de controle. Qual a função do barramento de endereços?',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 - Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) Endereçar os dados na ULA e na Unidade de Controle.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto2: 'b) Interligar a CPU à memória fazendo seu endereçamento.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Tem a função de encaixar fisicamente as placas de memória RAM.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) Endereçar os dados dos arquivos no computador dentro dos discos.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Endereçar a memória de armazenamento do computador.',
         id: '8'
     }
 

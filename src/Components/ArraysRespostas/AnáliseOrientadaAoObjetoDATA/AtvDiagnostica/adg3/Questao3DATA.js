@@ -13,7 +13,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Aqui é a pergunta',
+        enunciado: 'Qual é a representação matemática correta para o número decimal 1352?',
         id: '2'
         ,
 
@@ -21,23 +21,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) (1 x 102) + (3 x 101) + (2 x 100)',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) (1 x 103) + (3 x 101) + (5 x 101) + (2 x 100)',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) (1 x 104) + (1 x 102) + (3 x 101) + (2 x 100)',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) (1 x 102) + (3 x 101) + (2 x 100) + (2 x 10-1)',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto5: 'e) (1 x 103) + (3 x 102) + (5 x 101) + (2 x 100)',
         id: '8'
     }
 

@@ -1,8 +1,7 @@
 
 const RespostasDATA = [
     {
-        materia: 'Análise Orientada a Objeto'
-        ,
+
         titulo: 'Atividade Diagnóstica (ADG4)'
         ,
         id: '0'
@@ -13,7 +12,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 's',
+        enunciado: 'A notação (p⬆q)! corresponde a que porta lógica?',
         id: '2'
         ,
 
@@ -21,23 +20,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) AND.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) OR.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) XNOR.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) XOR.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto5: 'e) NAND.',
         id: '8'
     }
 

@@ -1,8 +1,7 @@
 
 const RespostasDATA = [
     {
-        materia: 'Análise Orientada a Objeto'
-        ,
+
         titulo: 'Atividade Diagnóstica (ADG1)'
         ,
         id: '0'
@@ -13,7 +12,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 's',
+        enunciado: 'Existem diversas classificações para as funções dos computadores, porém existe a classificação por unidades básicas, de acordo com as funções que elas controlam nos computadores. A unidade de processamento de um computador determina:',
         id: '2'
         ,
 
@@ -21,23 +20,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) Onde acontece o processamento das informações, Unidade Central de Processamento.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Onde acontece o processamento e a saída das informações.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Onde os dados podem ser visualizados.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) Onde os dados são retornados ao usuário.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Onde podemos inserir/entrar com dados no computador.',
         id: '8'
     }
 

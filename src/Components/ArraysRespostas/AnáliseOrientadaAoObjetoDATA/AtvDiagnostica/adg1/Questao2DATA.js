@@ -1,8 +1,7 @@
 
 const RespostasDATA = [
     {
-        materia: 'Análise Orientada a Objeto'
-        ,
+
         titulo: 'Atividade Diagnóstica (ADG1)'
         ,
         id: '0'
@@ -13,7 +12,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'Existem diversas classificações para as funções dos computadores, porém existe a classificação por unidades básicas, de acordo com as funções que elas controlam nos computadores. São componentes de armazenamento externo que unidade de armazenamento de um computador:',
         id: '2'
         ,
 
@@ -21,23 +20,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) Pendrive, HD Externo e Cartão de Memória.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Cartão de memória, HD Externo, RAM e CD/DVD-RW.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Cartão de memória, HD, Pendrive e ROM.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) HD Externo, RAM, conexão com Internet, cartão de memória e ROM.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Pendrive, HD Externo, Cartão de Memória e RAM.',
         id: '8'
     }
 

@@ -6,12 +6,7 @@ const RespostasDATA = [
         id: '0'
         ,
 
-
-        questaonumero: 'Questão 3',
-        id: 1
-        ,
-
-        enunciado: 's',
+        enunciado: 'São componentes que pertencem à unidade de entrada de um computador:',
         id: '2'
         ,
 
@@ -19,23 +14,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) Scanner, teclado, mouse, leitor de códigos de barra.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Conexão com internet, scanner, teclado.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Pen drive, teclado, mouse, leitor de códigos de barra.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) Scanner, teclado, mouse, caixas de som.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Teclado, mouse, leitor de códigos de barra, cartão de memória.',
         id: '8'
     }
 

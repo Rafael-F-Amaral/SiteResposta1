@@ -11,7 +11,9 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'Um barramento de dados determina diretamente o desempenho do sistema, pois quanto maior o número de vias de comunicação, maior o número de bits transferidos e consequentemente maior a rapidez com que estes dados serão processados. Os primeiros PCs possuiam barramento de:'
+        ,
+
         id: '2'
         ,
 
@@ -19,23 +21,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) 8 Vias e seus processadores funcionavam com 8 bits.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) 4 vias pois funcionavam com 4 bits.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) 12 vias em processadores de 8 bits.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) 2 vias em função do sistema binário 0 e 1.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) 16 vias acompanhando o número de bits possíveis de um processador.',
         id: '8'
     }
 
