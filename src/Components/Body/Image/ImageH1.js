@@ -10,7 +10,7 @@ const ImageH1 = () => {
                 <section>
                     <h1>
                         Site colaborativo para o curso de desenvolvimento de sistemas
-                    <p style={{color:'#32cd32', fontSize:'23px', fontWeight:'800', fontFamily:'sans-serif'}}>PRIMEIRO SEMESTRE</p>
+                        <p style={{ color: '#32cd32', fontSize: '23px', fontWeight: '800', fontFamily: 'sans-serif' }}>PRIMEIRO SEMESTRE</p>
 
                     </h1>
 
@@ -23,7 +23,7 @@ const ImageH1 = () => {
                 </div>
             </div>
         </section>
-        
+
     )
 }
 
