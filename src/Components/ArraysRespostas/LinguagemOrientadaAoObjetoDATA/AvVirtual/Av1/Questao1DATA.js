@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Existem diversas formas de desenvolver códigos na linguagem Java. O ambiente jdoodle é um ambiente web em que isso é possível.',
+        enunciado: 'A independência de utilização de dispositivos de hardwares diversos assim como aplicações diversas em um sistema operacional de rede se dá pelo fato de que a arquitetura TCP/IP (Transmission Controle Protocol / Internet Protocol) estrutura a rede de forma que os protocolos de camadas superiores encaminham os dados às camadas inferiores com informações de endereçamento e controle adicionados a carga útil dos dados.',
         id: '2'
         ,
 
@@ -19,24 +19,24 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) F – V – F – F.',
+        questao1: 'a) II e III apenas.',
         id: '4'
         ,
 
 
-        questao2: 'b) F – F – V – V.',
+        questao2: 'b) I, II, apenas.',
         id: '5'
         ,
 
-        questao3: 'c) F – V – F – V.',
+        questao3: 'c) I, II e III, apenas.',
         id: '6'
         ,
 
-        questao4: 'd) V – F – V – F.',
+        questao4: 'd) II, IV, apenas.',
         id: '7'
         ,
 
-        correto5: 'e) F – F – F – V.',
+        correto5: 'e) I, II, III e IV.',
         id: '8'
     }
 

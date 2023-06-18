@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java possui dois grandes recursos relacionados tratamento de erros: tratamentos de exceção e asserção. Com base no que você aprendeu sobre esses recursos, associe a Coluna A, que apresenta os recursos mencionados, com a Coluna B, que apresenta as características desses recursos:',
+        enunciado: 'Os sistemas distribuídos são implementados utilizando processos espalhados em mais de uma máquina. Cada processo pode ter um conjunto de threads.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) 1 – III; 2 – II; 3 – I; 4 – IV.',
+        questao1: 'a) Os itens I e II estão corretos.',
         id: '4'
         ,
 
-        questao2: 'b) 1 – I; 2 – IV; 3 – II; 4 – III.',
+        questao2: 'b) Os itens III e IV estão corretos.',
         id: '5'
         ,
 
-        correto3: 'c) 1 – II; 1 – IV; 2 – I; 2 – III.',
+        correto3: 'c) Os itens I e IV estão corretos.',
         id: '6'
         ,
 
-        questao4: 'd) 1 – II; 2 – III; 3 – I; 4 – IV.',
+        questao4: 'd) Os itens II e III estão corretos.',
         id: '7'
         ,
 
-        questao5: 'e) 1 – III; 2 – IV; 3 – I; 4 – II.',
+        questao5: 'e) Os itens II e IV estão corretos.',
         id: '8'
     }
 

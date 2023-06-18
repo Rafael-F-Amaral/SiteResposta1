@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'Pensando em um cenário altamente competitivo na área de TI, em especial nos projetos de desenvolvimento de sistemas, é notório as transformações nas estruturas organizacionais. Os empresários observam que suas organizações necessitam de dinamismo para a sua reestruturação rápida, em resposta às necessidades do mercado. (KERZNER, 2002).',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) I - 3; II - 2; III – 4; IV – e; V – 1;',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) I - 5; II - 1; III – 2; IV – 4; V – 3;',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) I - 2; II - 3; III – 4; IV – 5; V – 1;',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) I - 1; II - 5; III – 3; IV – 2; V – 4;',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto5: 'e) I - 5; II - 2; III – 4; IV – 1; V – 3;',
         id: '8'
     }
 

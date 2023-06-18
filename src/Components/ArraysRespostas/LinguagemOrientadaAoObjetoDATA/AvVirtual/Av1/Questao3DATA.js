@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java possui algumas estruturas de controle, como as tomadas de decisão. Tomando como base as estruturas de tomadas de decisão em Java, julgue as afirmativas a seguir em (V) Verdadeiras ou (F) Falsas.',
+        enunciado: 'Dentro da camada de Inter-Rede de um sistema computacional em rede estruturado pela arquitetura TCP/IP, o protocolo ICMP (Internet Control Message Protocol) desempenha um importante papel junto ao protocolo IP (Internet Protocol).',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) F – F – V – V – F.',
+        questao1: 'a) I e II, apenas.',
         id: '4'
         ,
 
-        correto2: 'b) V – V – V – F – F.',
+        questao2: 'b) I, II e IV, apenas.',
         id: '5'
         ,
 
-        questao3: 'c) F – V – F – F – V.',
+        questao3: 'c) I e III apenas.',
         id: '6'
         ,
 
-        questao4: 'd) V – V – F – F – F.',
+        correto4: 'd) II eIII, apenas.',
         id: '7'
         ,
 
-        questao5: 'e) V – F – F – V – V.',
+        questao5: 'e) I, II, III e IV.',
         id: '8'
     }
 

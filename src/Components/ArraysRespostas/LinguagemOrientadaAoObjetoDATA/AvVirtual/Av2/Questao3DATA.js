@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java suporta a criação de interfaces gráficas de forma simples e robusta por meio da biblioteca JavaFX. Essa biblioteca possui disponível um conjunto de funcionalidades que auxiliam no desenvolvimento de aplicações gráficas.',
+        enunciado: 'Os sistemas distribuídos podem ser classificados em diferentes categorias, de acordo com sua arquitetura e finalidade, sendo os mais comuns: computação em cluster e computação em grid.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        correto1: 'a) A função de um gerenciador de layout é auxiliar no posicionamento de componentes na tela, dessa maneira, não é necessário especificar as coordenadas.',
+        questao1: 'a) Apenas as afirmativas I e II estão corretas.',
         id: '4'
         ,
 
-        questao2: 'b) A função de um gerenciador de layout é auxiliar no posicionamento de componentes na tela.',
+        questao2: 'b) Apenas as afirmativa I e III estão corretas.',
         id: '5'
         ,
 
-        questao3: 'c) A função de um gerenciador de layout é auxiliar no posicionamento de componentes na tela.',
+        questao3: 'c) Apenas as afirmativas I, II e III estão corretas.',
         id: '6'
         ,
 
-        questao4: 'd) A função de um gerenciador de layout é permitir que os componentes possam ser colocados na tela.',
+        correto4: 'd) Apenas afirmativas I, II e IV estão corretas.',
         id: '7'
         ,
 
-        questao5: 'e) A função de um gerenciador de layout é permitir que os componentes possam ser colocados na tela.',
+        questao5: 'e) As afirmativa I, II, III e IV estão corretas.',
         id: '8'
     }
 

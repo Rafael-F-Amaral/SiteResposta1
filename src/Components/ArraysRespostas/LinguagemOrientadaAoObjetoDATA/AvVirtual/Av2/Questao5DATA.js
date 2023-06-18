@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Um Banco de Dados (BD) é um software desenvolvido para realizar o armazenamento de dados. Um banco de dados relacional geralmente utiliza alguma linguagem de consulta como o SQL. Para responder essa questão leve em consideração o que você aprendeu sobre BD.',
+        enunciado: 'Segundo Tanenbaum (2008) O protocolo NTP projetado para verificar a latência (atraso, delay) entre a máquina cliente e a máquina servidora, e a implementação disso é na verdade muito simples.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) O comando DATABASE CREATE `nome_bd`; cria um banco de dados. E o comando DATABASE DELETE `nome_bd`; deleta o banco de dados. ',
+        questao1: 'a) Servidor faça uma consulta a um servidor ARP utilizando a arquitetura cliente-servidor. ',
         id: '4'
         ,
 
-        questao2: 'b) O comando CREATE DB `nome_bd`; cria um banco de dados. E o comando DELETE DB `nome_bd`; deleta o banco de dados.  ',
+        correto2: 'b) Cliente faça uma consulta a um servidor NTP utilizando a arquitetura cliente-servidor.',
         id: '5'
         ,
 
-        questao3: 'c) O comando CREATE DATABASE `nome_bd`; cria um banco de dados. E o comando DELETE DATABASE `nome_bd`; deleta o banco de dados. ',
+        questao3: 'c) Servidor faça uma consulta a um cliente ARP utilizando a arquitetura híbrida. ',
         id: '6'
         ,
 
-        questao4: 'd) O comando CREATE DB `nome_bd`; cria um banco de dados. E o comando DROP DB `nome_bd`; deleta o banco de dados. ',
+        questao4: 'd) Servidor faça uma consulta a um cliente NTP utilizando a arquitetura P2P.',
         id: '7'
         ,
 
-        correto5: 'e) O comando CREATE DATABASE `nome_bd`; cria um banco de dados. E o comando DROP DATABASE `nome_bd`; deleta o banco de dados.',
+        questao5: 'e) Cliente faça uma consulta a um servidor ARP utilizando a arquitetura híbrida.',
         id: '8'
     }
 

@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A DML (linguagem de manipulação de dados) é um vocabulário usado para recuperar e trabalhar com dados em qualquer banco de dados. São instruções para adicionar, modificar, consultar ou remover dados desse banco de dados, porém quando aplicadas de maneira incorreta podem causar sérios danos. Quando se fala de apagar um registro a instrução delete se faz necessária.',
+        enunciado: 'Quando falamos sobre a governança da tecnologia da informação (TI), o COBIT, ITIL e gestão de projeto com o PMBOK, podemos afirmar: O COBIT é uma ferramenta de gestão orientada a negócios, pois estes aponta indicadores de objetivo para definir a forma de agir necessária para o progresso ',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        correto1: 'a) WHERE',
+        correto1: 'a) As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.',
         id: '4'
         ,
 
-        questao2: 'b) LIMIT',
+        questao2: 'b) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.',
         id: '5'
         ,
 
-        questao3: 'c) FROM',
+        questao3: 'c) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.',
         id: '6'
         ,
 
-        questao4: 'd) ORDER BY',
+        questao4: 'd) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.',
         id: '7'
         ,
 
-        questao5: 'e) GROUP BY',
+        questao5: 'e) As asserções I e II são proposições falsas.',
         id: '8'
     }
 

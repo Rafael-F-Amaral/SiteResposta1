@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'No trabalho em equipe, encontrar inúmeros perfis de profissionais distintos é uma certeza, entre estes, aquele que saberá falar melhor, ou ao menos, expressar bem a sua opinião, profissional oposto, mais calado e cheio de conhecimento com ideias fundamentadas',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 - Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) Perfeccionista, trabalha em equipe, pouca comunicação e experiente;',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Cumpri prazo, perfeccionista, comunicador e postergador;',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Cumpri prazo, tímido, decentralizador e pontualidade no horário;',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto4: 'd) Comunicador, focado, trabalha bem em equipe e não é postergador;',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) Domínio sobre o assunto, postergador, experiência técnica, baixa pontualidade.',
         id: '8'
     }
 

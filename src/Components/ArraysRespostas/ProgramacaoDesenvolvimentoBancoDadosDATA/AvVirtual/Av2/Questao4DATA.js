@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Considere a procedure abaixo, responsável por conceder 30% de desconto nas passagens a partir da inserção do número de vendas das mesmas e que utiliza a função fn_desc:',
+        enunciado: 'O processo de controle da qualidade é o momento em que ocorre o registro dos resultados da execução das atividades, avaliando o desempenho e podendo serem feitas as recomendações necessárias, para a melhoria contínua. ',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.',
+        questao1: 'a) V – F – V – F – V.',
         id: '4'
         ,
 
-        correto2: 'b) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.',
+        correto2: 'b) F – V – F – V – F.',
         id: '5'
         ,
 
-        questao3: 'c) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.',
+        questao3: 'c) F – V – V – F – V.',
         id: '6'
         ,
 
-        questao4: 'd) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.',
+        questao4: 'd) V – V – F – F – F.',
         id: '7'
         ,
 
-        questao5: 'e) As asserções I e II são proposições falsas.',
+        questao5: 'e) F – F – V – V – V.',
         id: '8'
     }
 

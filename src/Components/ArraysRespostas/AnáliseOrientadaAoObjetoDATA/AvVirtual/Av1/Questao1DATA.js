@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: "Basicament processos descrevem quem é o responsável por fazer um determinado artefato (o que), como serão executadas as tarefas e quando. Uma forma de escrever tais processos é por meio do chamado de UP (do inglês, Unified Process), ou Processo Unificado (PU) criado pelos fundadores da uml. Uma evolução do UP é o RUP (do inglês, Rational Unified Process). O RUP é um refinamento do PU desenvolvido pela Rational Corporation (daí a origem do nome) que não só melhorou o processo como desenvolveu ferramentas para sua utilização."
+        enunciado: "Basicamente processos descrevem quem é o responsável por fazer um determinado artefato (o que), como serão executadas as tarefas e quando. Uma forma de escrever tais processos é por meio do chamado de UP (do inglês, Unified Process), ou Processo Unificado (PU) criado pelos fundadores da uml. Uma evolução do UP é o RUP (do inglês, Rational Unified Process). O RUP é um refinamento do PU desenvolvido pela Rational Corporation (daí a origem do nome) que não só melhorou o processo como desenvolveu ferramentas para sua utilização."
         
         ,
         id: '2'

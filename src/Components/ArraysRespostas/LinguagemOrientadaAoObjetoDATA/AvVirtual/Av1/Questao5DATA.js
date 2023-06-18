@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'O site jdoodle é utilizada para a criação de aplicações em Java. Esse site permite a criação de forma fácil e rápida de códigos em Java. Baseando-se na forma como são criadas as aplicações nesse site responda.',
+        enunciado: 'Conforme afirma Tanenbaum (2011), quando um processo de aplicação deseja estabelecer uma conexão com um outro processo de aplicação remoto, é necessário especificar a aplicação com a qual ele irá se conectar.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) Inicialmente, abra o site do jdoodle. Em seguida, clique no botão para executar a aplicação.',
+        correto1: 'a) I e IV apenas.',
         id: '4'
         ,
 
-        correto2: 'b) Inicialmente, abra o site do jdoodle. Em seguida, digite o código da aplicação.',
+        questao2: 'b) I, II, apenas.',
         id: '5'
         ,
 
-        questao3: 'c) Inicialmente, abra o site do jdoodle. Em seguida, analise a saída impressa. ',
+        questao3: 'c) I, II e IV, apenas.',
         id: '6'
         ,
 
-        questao4: 'd) Inicialmente, abra o site do jdoodle. Em seguida, digite o código da aplicação.',
+        questao4: 'd) II, III, apenas.',
         id: '7'
         ,
 
-        questao5: 'e) Inicialmente, abra o site do jdoodle. Em seguida, clique no botão para executar a aplicação.',
+        questao5: 'e) I, II, III e IV.',
         id: '8'
     }
 

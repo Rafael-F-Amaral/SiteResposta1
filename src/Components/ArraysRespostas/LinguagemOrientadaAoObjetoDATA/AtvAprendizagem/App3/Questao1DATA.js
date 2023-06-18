@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'De uma forma geral, os sistemas operacionais implementam mecanismos para garantir a independência entre processos, com suporte de hardware para proteção de memória. Mas quando há necessidade de troca de informações entre processos, existem mecanismos apropriados para troca de informações.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 - Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) A comunicação entre processos em computadores diferentes pode ser feita utilizando sockets.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) A comunicação entre processos em um mesmo computador pode ser feita através de acesso direto à memória, sem uso de bibliotecas específicas.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) A comunicação entre threads de um mesmo processo não pode ocorrer, pois um thread interrompe a execução do outro.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) A comunicação entre threads em máquinas diferentes pode ocorrer através do uso de uma biblioteca específica para troca de mensagens entre threads.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) A troca de informação entre processos pode gerar resultados incorretos pois altera a região de memória do processo remoto.',
         id: '8'
     }
 

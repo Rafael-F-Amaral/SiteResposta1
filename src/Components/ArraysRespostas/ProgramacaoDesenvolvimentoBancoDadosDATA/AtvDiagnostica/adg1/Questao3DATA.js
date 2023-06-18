@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 's',
+        enunciado: 'Quando se trabalha com pessoas, é inerente a existência de conflitos, normalmente, estes conflitos iniciam devido à falta de comunicação. Exatamente por isso comunicação é um item muito importante a ser tratado com cautela, no processo de planejamento do projeto, como vimos anteriormente. ',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao1: 'a) Apenas as afirmativas I e II estão corretas.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) Apenas a afirmativa I está correta.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) Apenas a afirmativa II está correta.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto4: 'd) Apenas as afirmativas I e III estão corretas.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) As afirmativas I, II e III estão corretas.',
         id: '8'
     }
 

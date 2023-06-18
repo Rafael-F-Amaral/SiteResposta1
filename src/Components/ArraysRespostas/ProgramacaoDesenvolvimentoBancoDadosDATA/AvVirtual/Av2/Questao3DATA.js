@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A organização 4You está lançando uma nova campanha de telemarketing, o serviço será terceirizado e a mesma deve definir a quantidade de Telemarketings necessários para atender a demanda desta campanha. Para isso solicitou a equipe de de T.I. um relatório com a quantidade de clientes Ativos cadastrado no sistema.',
+        enunciado: 'O primeiro item a ser considerado a fim de que a documentação seja relevante é a efetiva comunicação entre os stakeholders, área de conhecimento bastante discutida, pois é por meio de uma comunicação clara, eficiente e eficaz que se consegue:',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        correto1: 'a) select count(*) from CLIENTE where situacao = 1;',
+        correto1: 'a) As asserções I e II são proposições verdadeiras e a II é um complemento da I.',
         id: '4'
         ,
 
-        questao2: 'b) select * from CLIENTE group by situacao',
+        questao2: 'b) As asserções I e II são proposições verdadeiras, a II não é um complemento da I.',
         id: '5'
         ,
 
-        questao3: 'c) select count(*) from CLIENTE where situacao <> 1;',
+        questao3: 'c) A asserção I é uma proposição falsa e a II é uma proposição verdadeira.',
         id: '6'
         ,
 
-        questao4: 'd) select count * from CLIENTE where situacao = "ativo";',
+        questao4: 'd) A asserção I é uma proposição verdadeira e a II é uma proposição falsa.',
         id: '7'
         ,
 
-        questao5: 'e) select count * from CLIENTE where situacao = 2;',
+        questao5: 'e) As asserções I e II são proposição falsas.',
         id: '8'
     }
 

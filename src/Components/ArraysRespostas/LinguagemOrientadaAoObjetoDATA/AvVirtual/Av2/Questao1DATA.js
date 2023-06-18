@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java possui diversos especificadores de formato utilizados na impressão e formatação de valores. Tomando como base o que você apendeu sobre esse assunto, julgue as afirmativas a seguir em (V) Verdadeiras ou (F) Falsas.',
+        enunciado: 'Ao utilizar um notebook para ouvir uma música e ao mesmo tempo acessar uma rede social, ocorre o uso de processos e/ou threads.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) F – F – V – V.',
+        questao1: 'a) As afirmativas II e III são verdadeiras.',
         id: '4'
         ,
 
-        questao2: 'b) F – V – F – F.',
+        correto2: 'b) As afirmativas I e II são verdadeiras.',
         id: '5'
         ,
 
-        questao3: 'c) V – F – V – F.',
+        questao3: 'c) As afirmativas III e IV são verdadeiras.',
         id: '6'
         ,
 
-        questao4: 'd) V – V – F – V.',
+        questao4: 'd) As afirmativas I e IV são verdadeiras.',
         id: '7'
         ,
 
-        correto5: 'e) V – V – V – F.',
+        questao5: 'e) As afirmativas II e IV são verdadeiras.',
         id: '8'
     }
 

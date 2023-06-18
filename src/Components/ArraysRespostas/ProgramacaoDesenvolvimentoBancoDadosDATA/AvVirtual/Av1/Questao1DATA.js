@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A resolução Nº 553/10 da ANATEL de 14/12/2010 determinou que fosse implantado o 9º(nono) dígito aos números de telefone celular entre 07/2012 e 11/2016.',
+        enunciado: 'Existe uma diferença considerável na descrição do escopo do projeto e do escopo do produto. Para tanto é fundamental ter ambos documentado na etapa do processo inicial do projeto, no único documento e de maior relevância para o projeto',
         id: '2'
         ,
 
@@ -19,25 +19,25 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) Linguagem de Consulta a Dados (D.Q.L. – Data Query Language) e Linguagem de Controle de Dados (D.C.L. – Data Control Language)',
+        questao1: 'a) As asserções I e II são proposições verdadeiras, e a II complementa I.',
         id: '4'
         ,
 
-        correto2: 'b) Linguagem de Definição de Dados (D.D.L. - Data Definition Language) e Linguagem de Manipulação dos Dados (D.M.L. – Data Manipulation Language).'
+        correto2: 'b) As asserções I e II são proposições verdadeiras, e ambas se complementam.'
         
         ,
         id: '5'
         ,
 
-        questao3: 'c) Linguagem de Manipulação dos Dados (D.M.L. – Data Manipulation Language) e Linguagem de Transação de Dados (D.T.L. – Data Transaction Language)',
+        questao3: 'c) A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.',
         id: '6'
         ,
 
-        questao4: 'd) Linguagem de Definição de Dados (D.D.L. – Data Definition Language) e Linguagem de Controle de Dados (D.C.L. – Data Control Language)',
+        questao4: 'd) A asserção II é uma proposição verdadeira, e a asserção I é uma proposição falsa.',
         id: '7'
         ,
 
-        questao5: 'e) Linguagem de Consulta a Dados (D.Q.L. – Data Query Language) e Linguagem de Transação de Dados (D.T.L. – Data Transaction Language)',
+        questao5: 'e) As asserções I e II são proposições falsas.',
         id: '8'
     }
 

@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java dá suporte aos conceitos de sobrecarga e sobreposição de métodos. Tomando como base a ideia de sobrecarga e sobreposição de métodos em Java, julgue as afirmativas a seguir em (V) Verdadeiras ou (F) Falsas.',
+        enunciado: 'O Modelo TCP/IP (Transmission Control Protocol / Internet Protocol) oferece um conjunto de protocolos distribuído em camadas: Apresentação, Transporte, Inter-Rede e Host de Rede. Os serviços implementados por seus protocolos podem ter duas abordagens: Orientada a conexão e Não orientada a conexão.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) V – V – F – F – V – F.',
+        questao1: 'a) I e IV apenas.',
         id: '4'
         ,
 
-        questao2: 'b) V – F – V – V – V – V.',
+        questao2: 'b) II, IV, apenas.',
         id: '5'
         ,
 
-        correto3: 'c) V – F – V – F – F – V.',
+        questao3: 'c) III apenas.',
         id: '6'
         ,
 
-        questao4: 'd) V – F – F – V – V – F.',
+        correot4: 'd) IV apenas.',
         id: '7'
         ,
 
-        questao5: 'e) F – V – V – V – V – F.',
+        questao5: 'e) II e III, apenas.',
         id: '8'
     }
 

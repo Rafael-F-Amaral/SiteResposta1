@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A Loja Barateira está iniciando uma nova campanha de marketing, e pretende monitorar e atingir com mais eficiência o seu publico alvo. Para isso a equipe de Marketing solicitou uma listagem contendo o produto mais barato, o mais caro e o preço médio dos produtos da loja.',
+        enunciado: '“O processo de garantia da qualidade é de extrema relevância para o projeto. É importante que o gerente pondere esse fator ao tomar decisões, uma vez que a garantia da qualidade está totalmente ligada a conformidade com as políticas e com o custo do projeto.”',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) SELECT nome, LOW(valor) from PRODUTOS;',
+        questao1: 'a) A afirmativa I é incorreta e as afirmativas II e III são corretas.',
         id: '4'
         ,
 
-        questao2: 'b) SELECT nome, MIN(valor) from PRODUTOS;',
+        correto2: 'b) As afirmativas I e III são corretas e a II é incorreta.',
         id: '5'
         ,
 
-        questao3: 'c) SELECT nome, LOW(valor) from PRODUTOS;',
+        questao3: 'c) As afirmativas I e II são incorretas e a III é correta.',
         id: '6'
         ,
 
-        correto4: 'd) SELECT nome, MIN(valor) from PRODUTOS;',
+        questao4: 'd) Todas as afirmativas são corretas.',
         id: '7'
         ,
 
-        questao5: 'e) SELECT nome, LOW(valor) from PRODUTOS;',
+        questao5: 'e) Todas as afirmativas são incorretas.',
         id: '8'
     }
 

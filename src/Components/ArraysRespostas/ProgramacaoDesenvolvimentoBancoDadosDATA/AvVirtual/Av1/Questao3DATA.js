@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Após a criação do banco de dados, o C.E.O. da empresa FUTURE S.A. identificou as seguintes situações:',
+        enunciado: 'Para gerenciar o setor de tecnologia da informação (TI) uma empresa realizará uma avaliação de oportunidade para a terceirização dos serviços de gestão do datacenter e com isso analisará os riscos operacionais e legais que poderão sofrer com está contratação, devido ao pedido efetuado para alta direção da organização no processo de implantação de um novo projeto.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        correto1: 'a) 1º script = renomeia no banco de dados: rename database BRASIL to GF;',
+        questao1: 'a) 3 – 2 – 1.',
         id: '4'
         ,
 
-        questao2: 'b) 1º script = renomeia no banco de dados: create database GF;',
+        questao2: 'b) 1 – 3 – 2.',
         id: '5'
         ,
 
-        questao3: 'c) 1º script = renomeia no banco de dados: create database BRASIL to GF;',
+        correto3: 'c) 2 – 3 – 1.',
         id: '6'
         ,
 
-        questao4: 'd) 1º script = renomeia no banco de dados: rename database BRASIL to GF;',
+        questao4: 'd) 2 – 1 – 3.',
         id: '7'
         ,
 
-        questao5: 'e) 1º script = renomeia no banco de dados: rename database BRASIL to GF;',
+        questao5: 'e) 3 – 1 – 2.',
         id: '8'
     }
 

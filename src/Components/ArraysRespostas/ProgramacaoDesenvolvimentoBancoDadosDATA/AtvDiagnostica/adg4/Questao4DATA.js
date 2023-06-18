@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining',
+        enunciado: 'A comunicação é um meio de interação entre todos os envolvidos da sociedade, desde o início da história. Com o passar do tempo, os profissionais envolvidos com o ramo tecnológico, começaram a perceber que, ao demonstrar a sociedade como o recurso computacional poderia ser útil para prestar auxílio em suas atividades cotidianas',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        correto1: 'a) A comunicação começa na interação entre a equipe do projeto e o cliente.',
         id: '4'
         ,
 
-        questao2: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao2: 'b) A comunicação se restringe aos membros da equipe de desenvolvimento.',
         id: '5'
         ,
 
-        questao3: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao3: 'c) A comunicação é a etapa de implementação do sistema através da codificação.',
         id: '6'
         ,
 
-        questao4: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao4: 'd) A comunicação é a etapa executada após a entrega do sistema ao cliente.',
         id: '7'
         ,
 
-        questao5: '1 Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry',
+        questao5: 'e) A comunicação complementa a etapa de testes o sistema, onde o cliente define as funcionalidades.',
         id: '8'
     }
 

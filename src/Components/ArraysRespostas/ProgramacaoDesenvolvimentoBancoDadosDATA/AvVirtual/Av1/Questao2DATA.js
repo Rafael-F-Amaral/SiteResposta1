@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Após a realização do acordo coletivo de trabalho para o ano base de 2018, a empresa determinou o reajuste do salário de seus colaboradores em 10%. Porem falta 1 dia para o fechamento da mês, o que colocou a equipe de T.I. em alerta pois são aproximadamente 8000 colaboradores com salários e gratificações diferenciadas na empresa.',
+        enunciado: '"A partir do detalhamento de atividades e experiências acumuladas em projetos anteriores, é possível perceber benefícios quantitativos e qualitativos da utilização  da gestão de projetos. Entre os benefícios mais concretos, tangíveis e quantitativos, pode-se destacar: "',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        correto1: 'a) UPDATE ProventosColaborador SET SalarioBase = SalarioBase * 1.1',
+        correto1: 'a) F - V - V - F - V',
         id: '4'
         ,
 
-        questao2: 'b) UPDATE Proventos SET Salario = Salario * 1.1',
+        questao2: 'b) F - V - F - V - V',
         id: '5'
         ,
 
-        questao3: 'c) UPDATE ProventosColaborador SET SalarioBase = SalarioBase + 10%',
+        questao3: 'c) V - F - V - F - V',
         id: '6'
         ,
 
-        questao4: 'd) ALTER TABLE ProventosColaborador SET Salario = Salario * 1.1',
+        questao4: 'd) F - V - F - V - F',
         id: '7'
         ,
 
-        questao5: 'e) UPDATE Proventos do Colaborador SET SalarioBase = SalarioBase * 1.1',
+        questao5: 'e) V - F - V - V - V',
         id: '8'
     }
 

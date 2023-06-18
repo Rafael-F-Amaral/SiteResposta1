@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'Após reformular o Know how de produtos vendidos na empresa, a Clean2All precisou inserir uma nova informação ref. ao TIPO de produtos comercializados',
+        enunciado: 'Para cada etapa do projeto existem saídas de documentos referente a etapa em que o projeto se encontra. Quando se analisa os projetos que já foram desenvolvidos, somos capazes de observar 5 grandes etapas, que ocorrem frequentemente',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) MODIFY TABLE PRODUTOS ADD constraint FK_TP_Produto Foreign Key (TP_Produto) references TP_Produto (id);',
+        questao1: 'a) iniciação / escopo.',
         id: '4'
         ,
 
-        questao2: 'b) ALTER TABEL PRODUTOS INSERT constraint FK_TP_Produto ForeignKey (TP_Produto) references TP_Produto (id);',
+        questao2: 'b) monitoramento e controle / projeto.',
         id: '5'
         ,
 
-        correto3: 'c) ALTER TABLE PRODUTOS ADD constraint FK_TP_Produto Foreign Key (TP_Produto) references TP_Produto (id);',
+        correto3: 'c) monitoramento e controle / escopo.',
         id: '6'
         ,
 
-        questao4: 'd) ALTER TABEL PRODUTOS INSERT constraint FK_TP_Produto Foreign Key (TP_Produto) references TP_Produto (id);',
+        questao4: 'd) planejamento / qualidade.',
         id: '7'
         ,
 
-        questao5: 'e) MODIFY TABLE PRODUTOS IMPUT constraint FK_TP_Produto Foreign Key (TP_Produto) references TP_Produto (id);',
+        questao5: 'e) planejamento / escopo.',
         id: '8'
     }
 

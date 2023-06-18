@@ -11,7 +11,7 @@ const RespostasDATA = [
         id: 1
         ,
 
-        enunciado: 'A linguagem Java suporta a execução de aplicações de forma paralela e concorrente. Para se conseguir isso técnicas de multithreading são aplicadas. Um trecho de código relacionado a threads é apresentado a seguir:  ',
+        enunciado: 'Para Tanenbaum (2008)  a sincronização de relógios são sistemas formados por múltiplos computadores e que necessitam sincronizar suas ações entre si, e uma das maneiras mais utilizadas, dada sua simplicidade e popularidade, é sincronização horária.',
         id: '2'
         ,
 
@@ -19,23 +19,23 @@ const RespostasDATA = [
         id: '3'
         ,
 
-        questao1: 'a) I e II apenas.',
+        questao1: 'a) Network moment protocol',
         id: '4'
         ,
 
-        questao2: 'b) III e IV apenas.',
+        questao2: 'b) Machine schedule protocol',
         id: '5'
         ,
 
-        correto3: 'c) I e III apenas.',
+        correto3: 'c) Network Time protocol',
         id: '6'
         ,
 
-        questao4: 'd) I, II e III apenas.',
+        questao4: 'd) Network schedule process',
         id: '7'
         ,
 
-        questao5: 'e) II e IV apenas.',
+        questao5: 'e) Network clock protocol',
         id: '8'
     }
 
